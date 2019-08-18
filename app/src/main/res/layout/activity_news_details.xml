@@ -72,7 +72,7 @@
                     android:layout_toRightOf="@+id/imgIcon"
                     android:layout_width="match_parent"
                     android:layout_marginLeft="3dp"
-                    android:textColor="#000"
+                    android:textColor="#1D1C1C"
                     android:layout_height="wrap_content"
                     android:textSize="12sp"
 
@@ -84,7 +84,7 @@
                     android:layout_below="@+id/sdesc"
                     android:layout_width="match_parent"
                     android:layout_marginLeft="3dp"
-                    android:textColor="##1A1818"
+                    android:textColor="#1A1818"
                     android:layout_height="wrap_content"
                     android:textSize="15sp"
 
